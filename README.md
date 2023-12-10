@@ -40,7 +40,12 @@ The course provides a comprehensive exploration of object-oriented programming (
 
 ## Assignments
 1. TP 1
-   - 
+   - [CheckPrimeNumber.java](https://github.com/rochmanramadhani/bol-business-application-development/blob/main/TP_1/src/CheckPrimeNumber.java)
+   - [LibrarySystem.java](https://github.com/rochmanramadhani/bol-business-application-development/blob/main/TP_1/src/LibrarySystem.java)
+
 
 ## Additional Resources
 Feel free to navigate through the repository to access course materials and related content.
+
+## Authors
+- [Rochman Ramadhani Chiefto Irawan](https://www.linkedin.com/in/rochmanramadhani)
