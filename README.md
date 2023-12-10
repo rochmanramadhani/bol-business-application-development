@@ -44,6 +44,8 @@ The course provides a comprehensive exploration of object-oriented programming (
    - [LibrarySystem.java](https://github.com/rochmanramadhani/bol-business-application-development/blob/main/TP_1/src/LibrarySystem.java)
 2. Tugas Personal 2
 3. Tugas Kelompok 1
+   - [TKSatuNomorSatu.java](https://github.com/rochmanramadhani/bol-business-application-development/blob/main/TK_1/src/TKSatuNomorSatu.java)
+   - [BinaryToDecimalConverter.java](https://github.com/rochmanramadhani/bol-business-application-development/blob/main/TK_1/src/TKSatuNomorDua.java)
 4. Tugas Kelompok 2
    - [AgeCalculator.java](https://github.com/rochmanramadhani/bol-business-application-development/blob/main/TK_2/src/AgeCalculator.java)
    - [BinaryToDecimalConverter.java](https://github.com/rochmanramadhani/bol-business-application-development/blob/main/TK_2/src/BinaryToDecimalConverter.java)
