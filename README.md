@@ -39,10 +39,16 @@ The course provides a comprehensive exploration of object-oriented programming (
 - LO 3: Develop applications using proper GUI and database techniques within an object-oriented approach.
 
 ## Assignments
-1. TP 1
+1. Tugas Personal 1
    - [CheckPrimeNumber.java](https://github.com/rochmanramadhani/bol-business-application-development/blob/main/TP_1/src/CheckPrimeNumber.java)
    - [LibrarySystem.java](https://github.com/rochmanramadhani/bol-business-application-development/blob/main/TP_1/src/LibrarySystem.java)
-
+2. Tugas Personal 2
+3. Tugas Kelompok 1
+4. Tugas Kelompok 2
+   - [AgeCalculator.java](https://github.com/rochmanramadhani/bol-business-application-development/blob/main/TP_2/src/AgeCalculator.java)
+   - [BinaryToDecimalConverter.java](https://github.com/rochmanramadhani/bol-business-application-development/blob/main/TP_2/src/BinaryToDecimalConverter.java)
+5. Tugas Kelompok 3
+6. Tugas Kelompok 4
 
 ## Additional Resources
 Feel free to navigate through the repository to access course materials and related content.
