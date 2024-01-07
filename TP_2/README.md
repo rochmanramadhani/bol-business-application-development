@@ -148,6 +148,9 @@ public class JavaFXExample extends Application {
 
 #### 2.5 Selection Between Toolkits:
 
+## 3. Clinic App CRUD Example
+https://github.com/rochmanramadhani/bol-business-application-development/assets/115830242/e0325231-d430-4ead-9a6e-9593c0d7f261
+
 - **AWT:** Suitable for simple applications and rapid development.
 - **Swing:** Better for complex desktop applications requiring consistent appearance across platforms.
 - **JavaFX:** Recommended for modern applications with sophisticated graphics and animation needs.
